@@ -21,11 +21,17 @@ Meu objetivo é construir uma carreira sólida como desenvolvedor, aprendendo co
 
 ---
 
+## 📊 Estatísticas do GitHub
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMIepsen&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMIepsen&layout=compact&theme=radical)
+
+---
+
 ## 🌐 Conecte-se comigo
-</div>
+
     <a href = "mailto:lucasmiepsen@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/lucas-moreira-iepsen-252119376" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
 
 ---
 
